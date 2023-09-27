@@ -17,7 +17,7 @@
 ### Redes Sociais e Contato
 
 <div> 
-  <a href="https://www.instagram.com/fvckbalbino/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%236C63FF?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="mailto:oviniciusbalbino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%236C63FF?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vinicius-balbinob/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%236C63FF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/fvckbalbino/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="mailto:oviniciusbalbino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vinicius-balbinob/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%286C63FF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
