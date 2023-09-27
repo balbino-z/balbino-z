@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=balbino-z&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=balbino-z&show_icons=true&theme=calm-dark&include_all_commits=true&count_private=true)
 
-![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=balbino-z&layout=compact&langs_count=6&theme=radical)
+![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=balbino-z&layout=compact&langs_count=6&theme=calm-dark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
