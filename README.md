@@ -1,23 +1,56 @@
-## Bem-vindo(a) ao meu perfil 😁
+# Hi, I'm Vinicius Balbino 👋
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=balbino-z&show_icons=true&theme=calm&include_all_commits=true&count_private=true&custom_title=Estat%C3%ADsticas%20do%20GitHub&title_color=6C63FF)
+### IT Operations | Infrastructure | Cloud & DevOps
 
-![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=balbino-z&layout=compact&langs_count=6&theme=calm&custom_title=Principais%20Linguagens&title_color=6C63FF)
+I'm an IT professional currently working at **Kyndryl**, with experience in IT Operations, monitoring and incident management across critical enterprise environments.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-</div>
+My background started in software development, where I worked with Java, Spring Boot, Python, Django, React and relational databases. Today, I'm combining that development foundation with hands-on experience in production operations while building deeper skills in **Cloud and DevOps**.
 
-<br>
+## 💼 What I work with
 
-### Redes Sociais e Contato
+* IT Operations & Production Monitoring
+* Incident Management & SLA Monitoring
+* Monitoring & Observability
+* Grafana, Zabbix & Datadog
+* ITSM workflows
+* Git & GitHub
 
-<div> 
-  <a href="https://www.instagram.com/fvckbalbino/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="mailto:oviniciusbalbino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vinicius-balbinob/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%236C63FF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+## 💻 Development Background
+
+* Java & Spring Boot
+* Python & Django
+* JavaScript & TypeScript
+* React
+* REST APIs
+* PostgreSQL & MySQL
+
+## ☁️ Currently Learning
+
+* Linux & Networking
+* Docker
+* Cloud Computing
+* CI/CD
+* Infrastructure as Code
+* Automation
+
+## 🚀 Current Goal
+
+I'm building the bridge between **Software Development and IT Operations**, with a focus on evolving toward **Cloud and DevOps engineering**.
+
+My current projects focus on applying DevOps practices to real applications, including containerization, CI/CD, cloud infrastructure, automation and observability.
+
+## 📌 Featured Projects
+
+Projects documenting this journey will be added here as they evolve.
+
+## 🎓 Education
+
+**Systems Analysis and Development**
+Fatec Americana — Expected graduation: 2026
+
+**Full Stack Java Development**
+Generation Brasil — 2025
+
+## 🔗 Connect
+
+LinkedIn: linkedin.com/in/vinicius-balbinob/
