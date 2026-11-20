@@ -14,9 +14,10 @@ automating operations work and learning to run applications in containers and in
 | Project | What it shows |
 |---|---|
 | [**InfoMed**](https://github.com/balbino-z/infomed-tcc) | Public-health PWA (React, TypeScript, PostgreSQL on Supabase). GitHub Actions runs type check, tests and build, plus a PostgreSQL 16 service that applies migrations and tests Row Level Security on every pull request. Deployed on Vercel. |
+| [**ERP Madeireira**](https://github.com/balbino-z/erp-madeireira) | Django + PostgreSQL ERP I built on my own for a lumber company: orders, stock, cash flow and PDF reports. Secrets moved to environment variables; next up: Docker, CI/CD, AWS and monitoring. |
 | [**Blog API**](https://github.com/balbino-z/blogpessoal_spring) | REST API in Java with Spring Boot and Spring Security, from the Generation Brasil bootcamp. |
 
-More projects are on the way: a Django ERP I built for a real client being taken to production standards (Docker, CI/CD, AWS, monitoring), an operations toolkit in Python, and a Linux troubleshooting lab.
+More projects are on the way: an operations toolkit in Python and a Linux troubleshooting lab.
 
 ### Tools
 
