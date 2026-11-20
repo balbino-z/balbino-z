@@ -1,56 +1,29 @@
-# Hi, I'm Vinicius Balbino 👋
+# Vinícius Balbino
 
-### IT Operations | Infrastructure | Cloud & DevOps
+**IT Operations at Kyndryl · building toward Cloud Operations & SRE**
 
-I'm an IT professional currently working at **Kyndryl**, with experience in IT Operations, monitoring and incident management across critical enterprise environments.
+I work in a 24/7 Global Command Center monitoring critical environments for enterprise clients:
+triaging alerts in Grafana, Zabbix and Datadog, handling 10–15 tickets a day in GLPI and IBM Maximo,
+and coordinating P1 incidents and war rooms until service is restored.
 
-My background started in software development, where I worked with Java, Spring Boot, Python, Django, React and relational databases. Today, I'm combining that development foundation with hands-on experience in production operations while building deeper skills in **Cloud and DevOps**.
+Before operations I was a developer, and I still build. Now I'm putting both together:
+automating operations work and learning to run applications in containers and in the cloud.
 
-## 💼 What I work with
+### Featured work
 
-* IT Operations & Production Monitoring
-* Incident Management & SLA Monitoring
-* Monitoring & Observability
-* Grafana, Zabbix & Datadog
-* ITSM workflows
-* Git & GitHub
+| Project | What it shows |
+|---|---|
+| [**InfoMed**](https://github.com/balbino-z/infomed-tcc) | Public-health PWA (React, TypeScript, PostgreSQL on Supabase). GitHub Actions runs type check, tests and build, plus a PostgreSQL 16 service that applies migrations and tests Row Level Security on every pull request. Deployed on Vercel. |
+| [**Blog API**](https://github.com/balbino-z/blogpessoal_spring) | REST API in Java with Spring Boot and Spring Security, from the Generation Brasil bootcamp. |
 
-## 💻 Development Background
+More projects are on the way: a Django ERP I built for a real client being taken to production standards (Docker, CI/CD, AWS, monitoring), an operations toolkit in Python, and a Linux troubleshooting lab.
 
-* Java & Spring Boot
-* Python & Django
-* JavaScript & TypeScript
-* React
-* REST APIs
-* PostgreSQL & MySQL
+### Tools
 
-## ☁️ Currently Learning
+**Operations:** incident management (P1–P3), SLA, escalation, change monitoring · Grafana · Zabbix · Datadog · GLPI · IBM Maximo
+**Code:** Python · Django · Java · Spring Boot · TypeScript · React · SQL · PostgreSQL · Git · GitHub Actions
+**Learning now:** Linux · Docker · AWS
 
-* Linux & Networking
-* Docker
-* Cloud Computing
-* CI/CD
-* Infrastructure as Code
-* Automation
+### Elsewhere
 
-## 🚀 Current Goal
-
-I'm building the bridge between **Software Development and IT Operations**, with a focus on evolving toward **Cloud and DevOps engineering**.
-
-My current projects focus on applying DevOps practices to real applications, including containerization, CI/CD, cloud infrastructure, automation and observability.
-
-## 📌 Featured Projects
-
-Projects documenting this journey will be added here as they evolve.
-
-## 🎓 Education
-
-**Systems Analysis and Development**
-Fatec Americana — Expected graduation: 2026
-
-**Full Stack Java Development**
-Generation Brasil — 2025
-
-## 🔗 Connect
-
-LinkedIn: linkedin.com/in/vinicius-balbinob/
+[LinkedIn](https://www.linkedin.com/in/vinicius-balbinob/) · Systems Analysis & Development, Fatec Americana (2026)
