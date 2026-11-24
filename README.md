@@ -1,30 +1,25 @@
 # Vinícius Balbino
 
-**IT Operations at Kyndryl · building toward Cloud Operations & SRE**
+**Full stack developer with a front-end focus**
 
-I work in a 24/7 Global Command Center monitoring critical environments for enterprise clients:
-triaging alerts in Grafana, Zabbix and Datadog, handling 10–15 tickets a day in GLPI and IBM Maximo,
-and coordinating P1 incidents and war rooms until service is restored.
-
-Before operations I was a developer, and I still build. Now I'm putting both together:
-automating operations work and learning to run applications in containers and in the cloud.
+I enjoy creating interfaces people understand and building what makes them work.
+I develop with React, TypeScript, Java and Python, and I currently work in IT Operations at Kyndryl,
+where I follow incidents and see how failures affect real users.
 
 ### Featured work
 
-| Project | What it shows |
+| Project | What it is |
 |---|---|
-| [**InfoMed**](https://github.com/balbino-z/infomed-tcc) | Public-health PWA (React, TypeScript, PostgreSQL on Supabase). GitHub Actions runs type check, tests and build, plus a PostgreSQL 16 service that applies migrations and tests Row Level Security on every pull request. Deployed on Vercel. |
-| [**ERP Madeireira**](https://github.com/balbino-z/erp-madeireira) | Django + PostgreSQL ERP I built on my own for a lumber company: orders, stock, cash flow and PDF reports. Secrets moved to environment variables; next up: Docker, CI/CD, AWS and monitoring. |
+| [**InfoMed**](https://github.com/balbino-z/infomed-tcc) | Academic public-health PWA in React and TypeScript, with Supabase/PostgreSQL. Screens were prototyped in Figma Make and refactored. CI runs type checks, tests, build and database rule tests. |
+| [**ERP Madeireira**](https://github.com/balbino-z/erp-madeireira) | Django ERP developed for a lumber company: orders, stock, cash flow, dashboard and PDF reports. |
 | [**Blog API**](https://github.com/balbino-z/blogpessoal_spring) | REST API in Java with Spring Boot and Spring Security, from the Generation Brasil bootcamp. |
-
-More projects are on the way: an operations toolkit in Python and a Linux troubleshooting lab.
 
 ### Tools
 
-**Operations:** incident management (P1–P3), SLA, escalation, change monitoring · Grafana · Zabbix · Datadog · GLPI · IBM Maximo
-**Code:** Python · Django · Java · Spring Boot · TypeScript · React · SQL · PostgreSQL · Git · GitHub Actions
-**Learning now:** Linux · Docker · AWS
+**Front end:** React · TypeScript · JavaScript · HTML · CSS · Tailwind CSS
+**Back end:** Java · Spring Boot · Python · Django · REST APIs
+**Data and delivery:** PostgreSQL · SQL · Supabase · Git · GitHub Actions
 
 ### Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/vinicius-balbinob/) · Systems Analysis & Development, Fatec Americana (2026)
+[LinkedIn](https://www.linkedin.com/in/vinicius-balbinob/) · Systems Analysis & Development, Fatec Americana (expected Dec 2026)
